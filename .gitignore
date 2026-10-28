@@ -1,0 +1,21 @@
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Yerel editör ve derleme çıktıları
+.vscode/
+.idea/
+build/
+*.hex
+*.elf
+*.o
+*.bin
+
+# Blender yedekleri
+*.blend1
+*.blend2
+
+# Yerel geçici dosyalar
+*.tmp
+~$*
